@@ -81,10 +81,6 @@ Aqui estão algumas dicas para os desenvolvedores darem uma verificada antes sua
 <li>Certifique-se de suas informações de conexão do banco de dados é garantido.
 Mantenha-se informado sobre as últimas técnicas de ataque e vulnerabilidades que podem afetar sua plataforma.</li>
 </ul>
-<h2>Teste Funcional</h2>
-<ul>
-<li>Testa os requisitos funcionais, as funções e os casos de uso. A aplicação faz o que deveria fazer ?(Aqui deve se ter mente sobre as funcionalidade da aplicação e testa-las individualmente ,por exemplo :bate-papo)</li>
-</ul>
 <h2>Perfomance</h2>
 <ul>
 <li> Criação de simulações de uso da aplicação (tempo de resposta sobre picos e médias de carga) </li>
@@ -144,6 +140,10 @@ Mantenha-se informado sobre as últimas técnicas de ataque e vulnerabilidades q
 <li>Botão de esqueci a senha (mailers)</li>
 <li>Mailers são simples e traduzidos</li>
 <li>Links de mailers estão corretos</li>
+</ul>
+<h2>Teste Funcional</h2>
+<ul>
+<li>Testa os requisitos funcionais, as funções e os casos de uso. A aplicação faz o que deveria fazer ?(Aqui deve se ter mente sobre as funcionalidade da aplicação e testa-las individualmente ,por exemplo :bate-papo)</li>
 </ul>
 <h2>Teste de Regressão </h2>
 <ul>
